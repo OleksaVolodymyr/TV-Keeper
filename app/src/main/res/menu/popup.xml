@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="rizon.com.tvkeeper.activity.MainActivity">
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/item2"
+        android:orderInCategory="100"
+        android:title="test"/>
+</menu>
